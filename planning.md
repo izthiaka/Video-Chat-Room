@@ -3,7 +3,7 @@
 - Initialiser Nodejs  **DONE**
 - Initialiser notre 1er vue **DONE**
 - Créer un identifiant de salle **DONE**
-- Ajoutez la possibilité de visionner nos propres vidéos
+- Ajoutez la possibilité de visionner nos propres vidéos **DONE**
 - Ajouter la possibilité d'autoriser la diffusion de leur vidéo
 - Ajouter du style
 - Ajouter la possibilité d'écrire des messages
